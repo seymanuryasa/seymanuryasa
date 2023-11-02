@@ -1,25 +1,30 @@
-Hi 👋 My name is Seyma
-======================
+# Hello there!👋
 
-Data Scientist
---------------
+I'm Şeyma, a passionate data enthusiast econometrics student @İstanbul University and part-time data governance assistant @AlBaraka Türk Participation Bank.
 
-I'm a student who is passionate to learning new things. Currently, I'm focusing on my data science skills in Python and R.
+I love exploring data, building insightful visualizations, and developing data-driven solutions. I specialize in Python and R. Here you'll find my projects, codes, and notes.
 
-*   🌍  I'm based in İstanbul
-*   ✉️  You can contact me at [syasa@ogr.iu.edu.tr](mailto:syasa@ogr.iu.edu.tr)
-*   🧠  I'm learning data scraping and NLP with R in these days.
-*   🤝  I'm open to collaborating on firms which are looking for junior data scientist.
-*   ### Skills<p align="left">
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                    </p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://www.github.com/seymanuryasa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>   <a href="http://www.instagram.com/whereisflowie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/seymanur-yasa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   <a href="http://www.medium.com/seymanuryasa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>   <a href="https://www.twitter.com/seymaiswriting" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### About Me
 
-### <b>My GitHub Stats
-</b><a    href="http://www.github.com/seymanuryasa"><img src="https://github-readme-stats.vercel.app/api?username=seymanuryasa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="seymanuryasa's GitHub stats" /></a>
+- 🌱 I'm currently honing my skills in data analysis and machine learning algorithms.
+- 💼 I have experience in tweet scraping projects and ecenometric analysis.
+- 🐚 I'm continuously learning and exploring new technologies to enhance my skills.
+- 🐝 Currently, I'm working on my project for the young scientist training program supported by TÜBİTAK. It's a data analysis project. After data analysis fase, I'm gonna make data visualization and mapping for the results. I'll be sharing my journey and also my codes in my profile. 🎊
+- 📫 Feel free to reach me: mailto:seymanuryasa@gmail.com
+
+## Skills
+
+- **Programming Languages:** Python, R, SQL
+- **Data Analysis:** Pandas, NumPy, Scikit-Learn, ggplot2
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Tools:** Jupyter Notebook, RStudio, Stata, SPSS
+
+### Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
+![Stata](https://img.shields.io/badge/-Stata-3C4E9E?style=flat-square&logoColor=white)
+![SPSS](https://img.shields.io/badge/-SPSS-3B5998?style=flat-square&logoColor=white)
+
+
+You can always connect with me for anything! Let's collaborate and learn together. 😊
