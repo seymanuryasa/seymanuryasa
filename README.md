@@ -9,7 +9,8 @@ I'm a student who is passionate to learning new things. Currently, I'm focusing 
 *   🌍  I'm based in İstanbul
 *   ✉️  You can contact me at [syasa@ogr.iu.edu.tr](mailto:syasa@ogr.iu.edu.tr)
 *   🧠  I'm learning data scraping and NLP with R in these days.
-*   🤝  I'm open to collaborating on firms which are looking for junior data scientist.### Skills<p align="left">
+*   🤝  I'm open to collaborating on firms which are looking for junior data scientist.
+*   ### Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                     </p>
                     
